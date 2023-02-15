@@ -1,5 +1,9 @@
-<h2>Hi, My name is Haneen </h2>
-- 👋 Hi, I’m @Haneen-Alzahrani2
+<h2>Hi There, i'am Haneen 👋 </h2>
+<h4> Full Stack Developer and UI/UX Designer </h4>
+<br>
+<a herf="https://twitter.com/iHaneenAz"><img src"https://github.com/Haneen-Alzahrani2/Haneen-Alzahrani2/blob/main/1.png"/></a>
+
+ <img src="https://github.com/Haneen-Alzahrani2/Haneen-Alzahrani2/blob/main/programmer.gif" algin="right" width="25%"/>
 - 👀 I’m interested in web developers and Database
 - 🌱 I’m currently learning javaFX and python
 - 💞️ I’m looking to collaborate on  content github
