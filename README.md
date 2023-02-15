@@ -12,7 +12,7 @@
 - A passionate Self-taught Front-end developer
 - I'm UI/UX Designer
 - I'm enjoy working with include javascript, flutter,and python.
-- I'm Currently learning Web Development by Self
+- I'm currently learning Web Development by Self
 - I’m currently open for an Intern or a new job opportunity
 <!-- - Personal website .. soon! -->
 <!-- -  [link](https://www.0xabdulkhalid.ml) -->
